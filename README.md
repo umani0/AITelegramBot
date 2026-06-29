@@ -2,7 +2,6 @@
 
 AI-powered Telegram bot built with **Python**, **Aiogram 3**, and **Google Gemini API**. The bot supports context-aware conversations, image analysis, and asynchronous message processing.
 
----
 
 ## Overview
 
@@ -16,7 +15,6 @@ The bot is capable of:
 * Handling multiple users asynchronously
 * Securing sensitive configuration with environment variables
 
----
 
 ## Features
 
@@ -28,7 +26,6 @@ The bot is capable of:
 * Modular project structure
 * Easy to extend with new functionality
 
----
 
 ## Tech Stack
 
@@ -38,7 +35,6 @@ The bot is capable of:
 * asyncio
 * python-dotenv
 
----
 
 ## Installation
 
@@ -88,7 +84,6 @@ Run the application:
 python AIBot.py
 ```
 
----
 
 ## Usage
 
@@ -96,8 +91,6 @@ python AIBot.py
 2. Send a text message to receive an AI-generated response.
 3. Upload an image for AI analysis.
 4. Continue the conversation while preserving context.
-
----
 
 ## Implemented Functionality
 
@@ -109,7 +102,6 @@ python AIBot.py
 * Environment-based configuration
 * Modular project architecture
 
----
 
 ## Project Goals
 
