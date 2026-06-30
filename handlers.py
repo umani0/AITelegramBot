@@ -1,6 +1,6 @@
 ﻿from aiogram.types import Message
 from aiogram.filters import CommandStart
-from aiogram import F, Router
+from aiogram import F, Router, Bot
 from ai_service import get_ai_response
 user = Router()
 
